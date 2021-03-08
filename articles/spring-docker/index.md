@@ -170,4 +170,8 @@ The source code to the application is in [this](https://github.com/paulodhiambo/
 ### Conclusion
 Docker is a great tool for building and packaging applications with the required dependencies to run them both locally and in production. [Docker playground](https://labs.play-with-docker.com/) is a browser-based environment that you can use to test various Docker commands without installing Docker locally on your computer.
 
-Happy Coding!
+Happy Coding!  
+
+---
+Peer Review Contributions by: [Miller Juma](/engineering-education/authors/miller-juma/)
+
